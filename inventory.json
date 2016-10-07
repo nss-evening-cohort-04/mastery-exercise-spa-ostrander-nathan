@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "$8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+   {
+      "make": "Toyota",
+      "model": "4Runner",
+      "year": "2009",
+      "price": "$12999",
+      "description": "This is a 2009 Toyota 4Runner with only 5000 miles on it. Has other stuff thats really great."
+    },
+       {
+      "make": "Ford",
+      "model": "F-150",
+      "year": "1972",
+      "price": "$999",
+      "description": "This is a barely driveable 1972 Ford F-150 with only 150000 miles on it."
+    }
+  ]
+}

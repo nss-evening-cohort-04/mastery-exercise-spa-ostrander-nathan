@@ -1,0 +1,9 @@
+.carCard {
+	box-shadow: 2px 1px 95px 1px #2A4E6E;
+	background-color: teal;
+	padding: 5px 10px 15px 10px;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;	 
+}
+.border {
+  border: solid;
+};
