@@ -8,8 +8,9 @@ var CarLot = (function (NewCarLot) {
 	NewCarLot.activateEvents = function() {
 	    for (var i = 0; i < carHolder.length; i++) {
 	      var containerEl = carHolder[i];
+	      console.log("containerEl",containerEl);
 	      // add event listener to car cards
-	      containerEl.addEventListener("click", function(event) {
+	      containerEl.addEventListener("click", function() {
 	            targetToEdit = this.childNodes[4];
 	            newInputField.focus();
 	            newInputField.value = targetToEdit.innerHTML;
